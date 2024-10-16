@@ -7,10 +7,10 @@ html
 }
 :root
 {
-    --main-color:#41aa27;
+    --main-color:#ff6600;
     --shadow-black-100:0 5px 15px rgba(0,0,0,0.2);
-    --black-900:#005204;
-    --black-400:#082707;
+    --black-900:#341400;
+    --black-400:#461c01;
     --black-100:#f7f7f7;
     --white:#fffcfb;
     --black-alpha-100:rgba(0,0,0,.05);
